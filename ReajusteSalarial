@@ -1,0 +1,5 @@
+def salario_reajuste(salario, reajuste): # craição da função
+    return salario * reajuste // 100 + salario #calculo do reajuste
+
+reajuste = salario_reajuste(int (input("Digite o valor do salário: ")), int(input("Digite o valor do reajuste: "))) # entrada dos valores
+print("Seu salário agora é R${}".format(reajuste)) # resultado do reajuste
