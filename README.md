@@ -6,17 +6,17 @@ Todos os programas estão comentados pelo autor, a maioria dos códigos foram pr
 
 ### Lista
 
-● [Análise de nomes](https://github.com/mkdvice/Python-Iniciante-/commit/afe92132cd64f3121ed50d800455c715e3b7ee88)
+● [Análise de nomes](https://github.com/mkdvice/Python-Iniciante-/blob/master/AnaliseDeNome)
 
-● [Conversor milhas para quilometros](https://github.com/mkdvice/Python-Iniciante-/commit/6156c7e32557236bc055be283abc3298e9b91e9a)
+● [Conversor milhas para quilometros](https://github.com/mkdvice/Python-Iniciante-/blob/master/ConversorMilhaKM)
 
-● [Conversor de real para dólar](https://github.com/mkdvice/Python-Iniciante-/commit/977392784991345b4a3d41590bcb0f85d15cff72)
+● [Conversor de real para dólar](https://github.com/mkdvice/Python-Iniciante-/blob/master/ConversorRealDolar)
 
-● [Densidade da População](https://github.com/mkdvice/Python-Iniciante-/commit/9c2d343f10f4b77e42ffb56e3da6a15d69e0bf59)
+● [Densidade da População](https://github.com/mkdvice/Python-Iniciante-/blob/master/DensidadeDaPopula%C3%A7%C3%A3o)
 
-● [Equação do 2º Grau](https://github.com/mkdvice/Python-Iniciante-/commit/a077675afb96272c161af3021edcb285886ea471)
+● [Equação do 2º Grau](https://github.com/mkdvice/Python-Iniciante-/blob/master/Equa%C3%A7%C3%A3o2grau.py)
 
-● [Jogo de advinhação](https://github.com/mkdvice/Python-Iniciante-/commit/4f1ef5c187b978e26686cc267b417fb24d3f508f)
+● [Jogo de advinhação](https://github.com/mkdvice/Python-Iniciante-/blob/master/JogoAdvinha%C3%A7%C3%A3o)
 
-● [Conceito Listas](https://github.com/mkdvice/Python-Iniciante-/commit/a33a6556097d85df9899d5acd446bf75513065d3)
+● [Conceito Listas](https://github.com/mkdvice/Python-Iniciante-/blob/master/ListaBasico)
 
