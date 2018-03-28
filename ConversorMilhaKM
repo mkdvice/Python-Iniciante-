@@ -1,9 +1,9 @@
-milha = int(input("Digite o valor da milha: ")) #Entrada do valor de milha tipo inteiro
+milha = int(input("Digite o valor da milha: ")) # Entrada do valor de milha tipo inteiro
 
 def conversorkm(): #Função para calcular milha
     return 1.6 * mile #calculo de milha
 
 
-print("Para {} milhas, temos {} quilometros".format(milha,conversorkm()))   #Resultados
+print("Para {} milhas, temos {} quilometros".format(milha,conversorkm()))   # Resultados
 if conversorkm() > 100:
     print("É chão!")
