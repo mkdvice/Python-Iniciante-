@@ -1,3 +1,4 @@
+
 __author__ = '@MkDVice'
 
 import math
@@ -19,14 +20,15 @@ print('Δ = {} \n'.format(delta))               # imprime o valor de delta
 if delta < 0:   # Condição para caso o denta de negativo
     print('Vázio, número inexistente no conjunto dos reais') # resultado se delta negativo
     os.system("pause") # Para o programa
+    exit()
 
 
 x1 = float(-b + (math.sqrt(delta))) // 2 * a    # Cálculo de X linha
 x2 = float(-b - (math.sqrt(delta))) // 2 * a    # Cálculo de X duas linhas
 
 print('''x = (-b +- √∆) / (2 * a) \n''')        # imprime a fórmula de bhaskara
-print('x = [-({}) + √{}] / (2 * a)'.format(b, delta, a))  # imprime a fórmula de bhaskara com valores para x linha
+print('x = [-({}) + √{}] / (2 * {})'.format(b, delta, a))  # imprime a fórmula de bhaskara com valores para x linha
 print('O valor de X linha é {}\n'.format(x1))   # imprime o valor de X linha
 
-print('x = [-({}) - √{}] / (2 * a)'.format(b, delta, a))  # imprime a fórmula de bhaskara com valores para x duas linhas
+print('x = [-({}) - √{}] / (2 * {})'.format(b, delta, a))  # imprime a fórmula de bhaskara com valores para x duas linhas
 print('O valor de x duas linhas {}'.format(x2)) # imprime o valor de X duas linhas
