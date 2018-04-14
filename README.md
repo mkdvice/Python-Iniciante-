@@ -22,22 +22,22 @@ Todos os programas estão comentados pelo autor, a maioria dos códigos foram pr
 
 ● [Medidor de distancias](https://github.com/mkdvice/Python-Iniciante-/blob/master/MedidorDeDistancias)
 
-● [Par ou Ímpar] (https://github.com/mkdvice/Python-Iniciante-/blob/master/ParOuImpar.py)
+● [Par ou Ímpar](https://github.com/mkdvice/Python-Iniciante-/blob/master/ParOuImpar.py)
 
-● [Pintor de Parede] (https://github.com/mkdvice/Python-Iniciante-/blob/master/PintorParede)
+● [Pintor de Parede](https://github.com/mkdvice/Python-Iniciante-/blob/master/PintorParede)
 
-● [Radar Elétronico] (https://github.com/mkdvice/Python-Iniciante-/blob/master/RadarEletronico.py)
+● [Radar Elétronico](https://github.com/mkdvice/Python-Iniciante-/blob/master/RadarEletronico.py)
 
-● [Reajuste de Salário] (https://github.com/mkdvice/Python-Iniciante-/blob/master/ReajusteSalarial)
+● [Reajuste de Salário](https://github.com/mkdvice/Python-Iniciante-/blob/master/ReajusteSalarial)
 
-● [Renomeador] (https://github.com/mkdvice/Python-Iniciante-/blob/master/Renomeador)
+● [Renomeador](https://github.com/mkdvice/Python-Iniciante-/blob/master/Renomeador)
 
-● [Reprodutor Mp3] (https://github.com/mkdvice/Python-Iniciante-/blob/master/Reprodutor%20Mp3.py)
+● [Reprodutor Mp3](https://github.com/mkdvice/Python-Iniciante-/blob/master/Reprodutor%20Mp3.py)
 
-● [Separador de Números] (https://github.com/mkdvice/Python-Iniciante-/blob/master/SeparadorNumeros.py)
+● [Separador de Números](https://github.com/mkdvice/Python-Iniciante-/blob/master/SeparadorNumeros.py)
 
-● [Tabuada] (https://github.com/mkdvice/Python-Iniciante-/blob/master/Tabuada)
+● [Tabuada](https://github.com/mkdvice/Python-Iniciante-/blob/master/Tabuada)
 
-● [Volume de Cilindro] (https://github.com/mkdvice/Python-Iniciante-/blob/master/VolumeCilindro)
+● [Volume de Cilindro](https://github.com/mkdvice/Python-Iniciante-/blob/master/VolumeCilindro)
 
-● [Cálculo de Idade] (https://github.com/mkdvice/Python-Iniciante-/blob/master/calculoIdade.py)
+● [Cálculo de Idade](https://github.com/mkdvice/Python-Iniciante-/blob/master/calculoIdade.py)
